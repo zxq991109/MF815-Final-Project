@@ -1,0 +1,468 @@
+id,fund_name,Performance fee?,Ivestment Strategy,Leverage?,Portfolio composition, Concentration
+0000051931-18-000151,American Funds College 2018 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000151,American Funds College 2021 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000151,American Funds College 2024 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000151,American Funds College 2027 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000151,American Funds College 2030 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000151,American Funds College 2033 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000151,American Funds College 2036 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000151,American Funds College Enrollment Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000426,American Funds U.S. Government Money Market Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-000465,Asset Allocation Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-000465,Blue Chip Income and Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000051931-18-000465,Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000465,Capital Income Builder,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-000465,Corporate Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Global Balanced Fund,None,Balanced Fund (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Global Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Global Growth Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Global Growth and Income Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Global Small Capitalization Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000051931-18-000465,Growth-Income Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000051931-18-000465,High-Income Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,International Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,International Growth and Income Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Managed Risk Asset Allocation Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000465,Managed Risk Blue Chip Income and Growth Fund,None,Equity Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000465,Managed Risk Growth Fund,None,Equity Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000465,Managed Risk Growth-Income Fund,None,Equity Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000465,Managed Risk International Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Mortgage Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-000465,New World Fund,None,Balanced Fund (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Portfolio Series - American Funds Global Growth Portfolio,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Portfolio Series - American Funds Growth and Income Portfolio,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Portfolio Series - American Funds Managed Risk Global Allocation Portfolio,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Portfolio Series - American Funds Managed Risk Growth Portfolio,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,Portfolio Series - American Funds Managed Risk Growth and Income Portfolio,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000465,U.S. Government/AAA-Rated Securities Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000051931-18-000465,Ultra-Short Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-000615,American Funds Conservative Growth and Income Portfolio,None,Balanced Fund (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000615,American Funds Moderate Growth and Income Portfolio,None,Balanced Fund (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000615,American Funds Preservation Portfolio,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-000615,American Funds Tax-Advantaged Growth and Income Portfolio,None,Balanced Fund (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0000051931-18-000615,American Funds Tax-Exempt Preservation Portfolio,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001394,American Funds Retirement Income Portfolio - Conservative,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001394,American Funds Retirement Income Portfolio - Enhanced,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001394,American Funds Retirement Income Portfolio - Moderate,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2010 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2015 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2020 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2025 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2030 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2035 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2040 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2045 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2050 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2055 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000051931-18-001409,American Funds 2060 Target Date Retirement Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0000053808-18-000007,Dreyfus Global Equity Income Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0000053808-18-000007,Dreyfus International Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000100334-18-000027,ADAPTIVE EQUITY FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,ALL CAP GROWTH FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,BALANCED FUND,None,Balanced Fund (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,CAPITAL VALUE FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,GROWTH FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,HERITAGE FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,NT GROWTH FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,NT HERITAGE FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,SELECT FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,SMALL CAP GROWTH FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,SUSTAINABLE EQUITY FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000100334-18-000027,ULTRA FUND,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000313212-18-000025,T. Rowe Price Africa & Middle East Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0000313212-18-000025,T. Rowe Price Asia Opportunities Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0000313212-18-000025,T. Rowe Price Emerging Europe Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0000313212-18-000025,T. Rowe Price Emerging Markets Stock Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0000313212-18-000025,T. Rowe Price Emerging Markets Value Stock Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0000717316-18-000027,CALIFORNIA HIGH-YIELD MUNICIPAL FUND,None,Fixed Income Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0000717316-18-000027,CALIFORNIA INTERMEDIATE-TERM TAX-FREE BOND FUND,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0000717316-18-000027,CALIFORNIA TAX-FREE MONEY MARKET FUND,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0000932471-18-006060,Vanguard GNMA Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000932471-18-006060,Vanguard Intermediate-Term Investment-Grade Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000932471-18-006060,Vanguard Intermediate-Term Treasury Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-006060,Vanguard Long-Term Investment-Grade Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000932471-18-006060,Vanguard Long-Term Treasury Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-006060,Vanguard Real Estate II Index Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0000932471-18-006060,Vanguard Short-Term Federal Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000932471-18-006060,Vanguard Short-Term Investment-Grade Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000932471-18-006060,Vanguard Short-Term Treasury Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-006060,Vanguard Ultra-Short-Term Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0000932471-18-006088,Vanguard Energy Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0000932471-18-006088,Vanguard Health Care Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0000932471-18-006088,Vanguard Precious Metals and Mining Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0000932471-18-006088,Vanguard Real Estate Index Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0000932471-18-008471,Vanguard Intermediate-Term Corporate Bond Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Intermediate-Term Treasury Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Long-Term Corporate Bond Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Long-Term Treasury Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Russell 1000 Growth Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Russell 1000 Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Russell 1000 Value Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Russell 2000 Growth Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Russell 2000 Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Russell 2000 Value Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Russell 3000 Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Short-Term Corporate Bond Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000932471-18-008471,Vanguard Short-Term Treasury Index Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000940394-18-000852,Eaton Vance Dividend Builder Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0000940394-18-000852,Eaton Vance Global Small-Cap Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0000940394-18-000852,Eaton Vance Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000940394-18-000852,Eaton Vance Large-Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000940394-18-000852,Eaton Vance Real Estate Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0000940394-18-000852,Eaton Vance Small-Cap Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000940394-18-000852,Eaton Vance Special Equities Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0000940394-18-001087,Eaton Vance TABS 1-to-10 Year Laddered Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000940394-18-001087,Eaton Vance TABS 10-to-20 Year Laddered Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000940394-18-001087,Eaton Vance TABS 5-to-15 Year Laddered Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000940394-18-001087,Eaton Vance TABS Intermediate-Term Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000940394-18-001087,Eaton Vance TABS Short-Term Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0000940394-18-001800,Eaton Vance Arizona Municipal Income Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0000940394-18-001800,Eaton Vance Connecticut Municipal Income Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0000940394-18-001800,Eaton Vance Minnesota Municipal Income Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0000940394-18-001800,Eaton Vance Municipal Opportunities Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0000940394-18-001800,Eaton Vance New Jersey Municipal Income Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0000940394-18-001800,Eaton Vance Pennsylvania Municipal Income Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-012545,MFS Global Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001104659-18-012545,MFS Strategic Income Fund,None,Fixed Income Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001104659-18-012553,MFS Global Equity Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001104659-18-012553,MFS Global Total Return Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001104659-18-012553,MFS Utilities Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Alabama Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Arkansas Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS California Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Georgia Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Maryland Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Massachusetts Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Mississippi Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Municipal Income Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS New York Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS North Carolina Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Pennsylvania Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS South Carolina Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Tennessee Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS Virginia Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001104659-18-047251,MFS West Virginia Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001144204-18-020502,MainStay VP Balanced Portfolio,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001144204-18-020502,MainStay VP Common Stock Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP Convertible Portfolio,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0001144204-18-020502,MainStay VP Eagle Small Growth Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP Emerging Markets Equity Portfolio,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001144204-18-020502,MainStay VP Epoch U.S. Equity Yield Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP Epoch U.S. Small Cap Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP Growth Allocation Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP Income Builder Portfolio,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001144204-18-020502,MainStay VP International Equity Portfolio,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001144204-18-020502,MainStay VP Janus Henderson Balanced Portfolio,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0001144204-18-020502,MainStay VP Large Cap Growth Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP MFS Utilities Portfolio,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001144204-18-020502,MainStay VP Mid Cap Core Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP S&P 500 Index Portfolio,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP Small Cap Core Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001144204-18-020502,MainStay VP T. Rowe Price Equity Income Portfolio,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Asia Equity Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-020442,Janus Henderson Balanced Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-020442,Janus Henderson Contrarian Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Emerging Markets Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-020442,Janus Henderson Enterprise Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-020442,Janus Henderson European Focus Fund,None,Equity Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-020442,Janus Henderson Forty Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Global Equity Income Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Global Life Sciences Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001193125-18-020442,Janus Henderson Global Real Estate Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-020442,Janus Henderson Global Research Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Global Select Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Global Technology Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Global Value Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Growth and Income Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson International Opportunities Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson International Small Cap Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson International Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Overseas Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Research Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Triton Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson U.S. Growth Opportunities Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-020442,Janus Henderson Venture Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-091654,Western Asset Intermediate Maturity California Municipals Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-091654,Western Asset Intermediate Maturity New York Municipals Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-091654,Western Asset Massachusetts Municipals Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-091824,ClearBridge Global Health Care Innovations Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-135699,Schwab California Municipal Money Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-135699,Schwab New York Municipal Money Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-138737,Thrivent Partner Healthcare Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-139001,Columbia Variable Portfolio - Balanced Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Disciplined Core Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Dividend Opportunity Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Emerging Markets Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Global Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Government Money Market Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - High Yield Bond Fund,None,Fixed Income Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Income Opportunities Fund,None,Fixed Income Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Intermediate Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Large Cap Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Large Cap Index Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Mid Cap Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Mid Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Select Large-Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - Select Smaller-Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Columbia Variable Portfolio - U.S. Government Mortgage Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-139001,Variable Portfolio - BlackRock Global Inflation-Protected Securities Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-139001,Variable Portfolio - MFS Blended Research Core Equity Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Variable Portfolio - MFS Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Variable Portfolio - Morgan Stanley Advantage Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Variable Portfolio - Oppenheimer International Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Variable Portfolio - Partners Small Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Variable Portfolio - T. Rowe Price Large Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Variable Portfolio - TCW Core Plus Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-139001,Variable Portfolio - Victory Sycamore Established Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139001,Variable Portfolio - Wells Fargo Short Duration Government Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-139521,Janus Henderson Balanced Portfolio,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139521,Janus Henderson Enterprise Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139521,Janus Henderson Flexible Bond Portfolio,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-139521,Janus Henderson Forty Portfolio,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139521,Janus Henderson Global Bond Portfolio,None,Fixed Income Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139521,Janus Henderson Global Research Portfolio,None,Fixed Income Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139521,Janus Henderson Global Technology Portfolio,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-139521,Janus Henderson Global Unconstrained Bond Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139521,Janus Henderson Mid Cap Value Portfolio,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-139521,Janus Henderson Overseas Portfolio,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-139521,Janus Henderson Research Portfolio,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-175382,PIMCO California Intermediate Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-175382,PIMCO California Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-175382,PIMCO California Short Duration Municipal Income Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-175382,PIMCO REALPATH 2020 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-175382,PIMCO REALPATH 2025 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-175382,PIMCO REALPATH 2030 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-175382,PIMCO REALPATH 2035 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-175382,PIMCO REALPATH 2040 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-175382,PIMCO REALPATH 2045 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-175382,PIMCO REALPATH 2050 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-175382,PIMCO REALPATH 2055,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-205687,Columbia Large Cap Enhanced Core Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-205687,Columbia Large Cap Growth Fund III,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-205687,Columbia Large Cap Index Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-205687,Columbia Mid Cap Index Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-205687,Columbia Mid Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-205687,Columbia Overseas Value Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-205687,Columbia Select Global Growth Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-205687,Columbia Select International Equity Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-205687,Columbia Select Large Cap Equity Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-205687,Columbia Small Cap Index Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-205687,Columbia Small Cap Value Fund II,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI Emerging Markets Opportunities Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-209592,AllianzGI Focused Growth Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI Global Natural Resources Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-209592,AllianzGI Global Small-Cap Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI Health Sciences Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-209592,AllianzGI Income & Growth Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI Mid-Cap Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI NFJ Dividend Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI NFJ International Value Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-209592,AllianzGI NFJ Large-Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI NFJ Mid-Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI NFJ Small-Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI Small-Cap Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-209592,AllianzGI Technology Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-227777,Ivy Asset Strategy Fund,None,Balanced Fund (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-227777,Ivy Balanced Fund,None,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-227777,Ivy Core Equity Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Emerging Markets Equity Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-227777,Ivy Energy Fund,None,Equity Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-227777,Ivy European Opportunities Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Global Equity Income Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Global Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Global Income Allocation Fund,None,Balanced Fund (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-227777,Ivy High Income Fund,None,Fixed Income Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-227777,Ivy LaSalle Global Risk-Managed Real Estate Fund,None,Equity Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-227777,Ivy Large Cap Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Limited-Term Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-227777,Ivy Managed International Opportunities Fund,None,Balanced Fund (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-227777,Ivy Micro Cap Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Mid Cap Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Mid Cap Income Opportunities Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Municipal Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-227777,Ivy Municipal High Income Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-227777,Ivy Natural Resources Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001193125-18-227777,Ivy Science and Technology Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001193125-18-227777,Ivy Securian Core Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-227777,Ivy Securian Real Estate Securities Fund,None,Equity Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-227777,Ivy Small Cap Core Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Small Cap Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Tax-Managed Equity Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-227777,Ivy Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-256142,JPMorgan Access Balanced Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-274246,NORTHERN MONEY MARKET FUND,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-274246,NORTHERN MUNICIPAL MONEY MARKET FUND,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-274246,NORTHERN U.S. GOVERNMENT MONEY MARKET FUND,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-274246,NORTHERN U.S. GOVERNMENT SELECT MONEY MARKET FUND,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-285341,Columbia Commodity Strategy Fund,None,Commodities Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-285341,Columbia Dividend Opportunity Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-285341,Columbia Flexible Capital Income Fund,None,Fixed Income Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-285341,Columbia High Yield Bond Fund,None,Fixed Income Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001193125-18-285341,Columbia Large Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-285341,Columbia Mortgage Opportunities Fund,None,Long Short Funds (High Risk),Yes,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-285341,Columbia Seligman Communications and Information Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-285341,Columbia Small/Mid Cap Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001193125-18-285341,Multi-Manager Value Strategies Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-286983,JPMorgan California Tax Free Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-286983,JPMorgan Equity Focus Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-286983,JPMorgan Europe Dynamic Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-286983,JPMorgan Global Allocation Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001193125-18-286983,JPMorgan New York Tax Free Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-286983,JPMorgan Tax Aware Equity Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001193125-18-303053,PIMCO Gurtin California Municipal Intermediate Value Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-303053,PIMCO Gurtin California Municipal Opportunistic Value Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Concentrated by issuer / sector / jurisdiction
+0001193125-18-303053,PIMCO Gurtin National Municipal Intermediate Value Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001193125-18-303053,PIMCO Gurtin National Municipal Opportunistic Value Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001206774-18-001008,DELAWARE EMERGING MARKETS FUND,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001206774-18-001008,DELAWARE GLOBAL VALUE FUND,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001206774-18-001008,DELAWARE INTERNATIONAL VALUE EQUITY FUND,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001206774-18-001008,Delaware International Small Cap Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-000929,Fidelity Advisor New Insights Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-000929,Fidelity Advisor Series Opportunistic Insights Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-000929,Fidelity Contrafund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-000929,Fidelity Contrafund K6,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-000929,Fidelity Flex Opportunistic Insights Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-000929,Fidelity Series Opportunistic Insights Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-001273,Fidelity Advisor Series Equity Value Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2005 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2010 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2015 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2020 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2025 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2030 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2035 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2040 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2045 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2050 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2055 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-002694,Fidelity Advisor Freedom 2060 Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-003592,Fidelity Advisor Communications Equipment Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003592,Fidelity Advisor Consumer Discretionary Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003592,Fidelity Advisor Energy Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003592,Fidelity Advisor Financial Services Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003592,Fidelity Advisor Health Care Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003592,Fidelity Advisor Industrials Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003592,Fidelity Advisor Semiconductors Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003592,Fidelity Advisor Technology Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003592,Fidelity Advisor Utilities Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Asia ex Japan ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-003799,Franklin FTSE Australia ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Brazil ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Canada ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE China ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Europe ETF,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001379491-18-003799,Franklin FTSE Europe Hedged ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-003799,Franklin FTSE France ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Germany ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Hong Kong ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE India ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Italy ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Japan ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Japan Hedged ETF,None,Equity Long Only (Low Risk),Yes,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Mexico ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Russia ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE South Korea ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Switzerland ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE Taiwan ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin FTSE United Kingdom ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Concentrated by issuer / sector / jurisdiction
+0001379491-18-003799,Franklin Liberty Intermediate Municipal Opportunities ETF,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-003799,Franklin Liberty International Opportunities ETF,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-003799,Franklin Liberty Investment Grade Corporate ETF,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-003799,Franklin Liberty Municipal Bond ETF,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-003799,Franklin Liberty U.S. Low Volatility ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-003799,Franklin LibertyQ Emerging Markets ETF,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-003799,Franklin LibertyQ Global Dividend ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-003799,Franklin LibertyQ Global Equity ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-003799,Franklin LibertyQ International Equity Hedged ETF,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001379491-18-003799,Franklin LibertyQ U.S. Equity ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-003799,Franklin LibertyQ U.S. Mid Cap Equity ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-003799,Franklin LibertyQ U.S. Small Cap Equity ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-004134,Fidelity Municipal Income 2019 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-004134,Fidelity Municipal Income 2021 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-004134,Fidelity Municipal Income 2023 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-004134,Fidelity Municipal Income 2025 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-004650,Fidelity ZERO Extended Market Index Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-004650,Fidelity ZERO Large Cap Index Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001379491-18-005080,Fidelity GNMA Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Managed Retirement 2005 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Managed Retirement 2010 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Managed Retirement 2015 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Managed Retirement 2020 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Managed Retirement 2025 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Managed Retirement Income Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Simplicity RMD 2005 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Simplicity RMD 2010 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Simplicity RMD 2015 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Simplicity RMD 2020 Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005080,Fidelity Simplicity RMD Income Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005086,Franklin Payout 2018 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-005086,Franklin Payout 2019 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-005086,Franklin Payout 2020 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-005086,Franklin Payout 2021 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-005086,Franklin Payout 2022 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-005086,Franklin Payout 2023 Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-005680,Fidelity Flex Conservative Income Bond Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001379491-18-005680,Fidelity Flex Short-Term Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005680,Fidelity Flex U.S. Bond Index Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005680,Fidelity Investment Grade Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005680,Fidelity Series Corporate Bond Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-005680,Fidelity Series Short-Term Credit Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001379491-18-006486,Fidelity Diversified International Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-006486,Fidelity Emerging Asia Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-006486,"Fidelity Emerging Europe, Middle East, Africa (EMEA) Fund",None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001379491-18-006486,Fidelity Emerging Markets Discovery Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-006486,Fidelity Emerging Markets Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-006486,Fidelity Global Equity Income Fund,None,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-006486,Fidelity International Capital Appreciation Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-006486,Fidelity International Discovery Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001379491-18-006486,Fidelity International Growth Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001580642-18-005941,Swan Defined Risk Emerging Markets Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001580642-18-005941,Swan Defined Risk Foreign Developed Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001580642-18-005941,Swan Defined Risk Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001580642-18-005941,Swan Defined Risk U.S. Small Cap Fund,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001580642-18-006021,Anchor Tactical Credit Strategies Fund,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001580642-18-006021,Anchor Tactical Equity Strategies Fund,None,Long Short Funds (High Risk),Yes,Investment grade securities,Diversified
+0001580642-18-006021,Anchor Tactical Municipal Strategies Fund,None,Long Short Funds (High Risk),Yes,Investment grade securities,Diversified
+0001591556-18-000016,Dreyfus Alternative Diversifier Strategies Fund,None,Long Short Funds (High Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001591556-18-000016,Dreyfus Global Emerging Markets Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001591556-18-000016,Dreyfus Select Managers Long/Short Fund,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001591556-18-000016,Dreyfus Yield Enhancement Strategy Fund,None,Fixed Income Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001623632-18-001139,Federated MDT All Cap Core Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001623632-18-001139,Federated MDT Balanced Fund,None,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001623632-18-001139,Federated MDT Large Cap Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001623632-18-001139,Federated MDT Small Cap Core Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001623632-18-001139,Federated MDT Small Cap Growth Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001683863-18-000108,Nasdaq-100 Index Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001683863-18-000108,S&P 500 Index Fund,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001683863-18-000108,Total Return Strategy Fund,Some performance Fees,Balanced Fund (Low Risk),Yes,Investment grade securities,Diversified
+0001683863-18-000339,Cornerstone Moderately Aggressive Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000339,Cornerstone Moderately Conservative Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000339,Emerging Markets Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000339,Government Securities Fund,Some performance Fees,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001683863-18-000339,Growth and Tax Strategy Fund,Some performance Fees,Balanced Fund (Low Risk),No,Investment grade securities,Diversified
+0001683863-18-000339,Managed Allocation Fund,None,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000339,Precious Metals and Minerals Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Concentrated by issuer / sector / jurisdiction
+0001683863-18-000339,Treasury Money Market Trust,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001683863-18-000339,World Growth Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000443,Aggressive Growth Fund,Some performance Fees,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001683863-18-000443,Capital Growth Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000443,Growth & Income Fund,Some performance Fees,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001683863-18-000443,High Income Fund,Some performance Fees,Balanced Fund (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000443,Income Stock Fund,Some performance Fees,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001683863-18-000443,Intermediate-Term Bond Fund,Some performance Fees,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001683863-18-000443,Money Market Fund,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001683863-18-000443,Science & Technology Fund,Some performance Fees,Equity Long Only (Low Risk),No,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000443,Short-Term Bond Fund,Some performance Fees,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001683863-18-000443,Small Cap Stock Fund,Some performance Fees,Equity Long Only (Low Risk),No,Investment grade securities,Diversified
+0001683863-18-000547,USAA MSCI Emerging Markets Value Momentum Blend Index ETF,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001683863-18-000547,USAA MSCI International Value Momentum Blend Index ETF,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001683863-18-000547,USAA MSCI USA Small Cap Value Momentum Blend Index ETF,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001683863-18-000547,USAA MSCI USA Value Momentum Blend Index ETF,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001710607-18-000050,American Century Growth ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001710607-18-000050,American Century Value ETF,None,Equity Long Only (Low Risk),No,Listed Equities,Diversified
+0001710607-18-000172,American Century Diversified Corporate Bond ETF,None,Fixed Income Long Only (Low Risk),Yes,Investment grade securities,Diversified
+0001710607-18-000172,American Century Diversified Municipal Bond ETF,None,Fixed Income Long Only (Low Risk),No,Investment grade securities,Diversified
+0001710607-18-000172,American Century Quality Diversified International ETF,None,Equity Long Only (Low Risk),Yes,Sub-investment grade securities or emerging markets,Diversified
+0001710607-18-000172,American Century STOXX U.S. Quality Growth ETF,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
+0001710607-18-000172,American Century STOXX U.S. Quality Value ETF,None,Equity Long Only (Low Risk),Yes,Listed Equities,Diversified
